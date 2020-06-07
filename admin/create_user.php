@@ -2,16 +2,42 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Registration system PHP and MySQL - Create user</title>
-	<link rel="stylesheet" type="text/css" href="../style.css">
-	<style>
-		.header {
+<head>
+<style>
+h1 {
+    width: 80%;
+    margin: 10px auto 0px;
+    color: white;
+    background: #5F9EA0;
+    text-align: center;
+    border: 1px solid #B0C4DE;
+    border-bottom: none;
+    border-radius: 10px 10px 0px 0px;
+    padding: 20px;
+}
+
+h3 {
+    width: 40%;
+    margin: 10px auto 0px;
+    color: white;
+    background: #5F9EA0;
+    text-align: center;
+    border: 1px solid #B0C4DE;
+    border-bottom: none;
+    border-radius: 10px 10px 0px 0px;
+    padding: 20px;
+}
+.header {
 			background: #003366;
 		}
 		button[name=register_btn] {
 			background: #003366;
 		}
-	</style>
+</style>
+	<h1>COVID-19 NOVEL CORONA VIRUS SELF REPORTING PORTAL</h1>
+	<h3>GANGAPUR CITY, RAJASTHAN</h3>
+	<title>NOVEL CORONA VIRUS</title>
+	<link rel="stylesheet" type="text/css" href="../style.css">
 </head>
 <body>
 	<div class="header">
